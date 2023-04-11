@@ -1801,7 +1801,7 @@ button.icons {
 
 /*widget title2*/
 .widget-title2 h3 {
-    font-size: 42px;
+    font-size: 40px;
     line-height: 44px;
     font-weight: 600;
     color: #ffff;
@@ -1843,7 +1843,7 @@ button.icons {
 }
 
 .dreamit-icon-title h4 {
-    font-size: 22px;
+    font-size: 19px;
     font-weight: 500;
     color: #fff;
     padding: 2px 0 10px;
@@ -2694,7 +2694,7 @@ p.choose-text1 {
 
 .style-three.case-study-area {
     background: #fff;
-    padding: 95px 0 70px;
+    padding: 15px 0 70px;
 }
 
 /* Portfolio Nav */
@@ -3075,6 +3075,7 @@ p.choose-text1 {
     display: inline-block;
     transition: .5s;
     padding: 20px 0 0px;
+    font-size: 15px;
 }
 
 .em-testi-start-icon i {
