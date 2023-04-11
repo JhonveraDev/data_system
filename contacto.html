@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Consen - Finance Consulting HTML5 Template</title>
+	<title>DATASYSTEM | Contacto | Software Financiero & Contable.</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -37,12 +37,46 @@
 	<link rel="stylesheet" href="assets/css/style.css" type="text/css" media="all">
 	<!-- responsive CSS -->
 	<link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/css/whatsap.css" />
 
 	<!-- modernizr js -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
 </head>
 
 <body>
+  <!-- Start Whatsapp buttom -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/css/whatsapp-button-style.css">
+  <link rel="stylesheet" href="assets/css/whatsapp-chat-style.css">
+  <div class="nav-bottom">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <div class="popup-whatsapp fadeIn">
+      <div class="content-whatsapp -top">
+        <button type="button" class="closePopup">
+          <i class="material-icons icon-font-color">close</i>
+        </button>
+        <div class="content-chat">
+          <img src="assets/images/resource/data-logo.png" width="30">
+          <p>Hola, ¿en qué podemos ayudarte?</p>
+        </div>
+      </div>
+      <div class="content-whatsapp -bottom">
+        <input class="whats-input" id="whats-in" type="text" placeholder="Escribe tu mensaje... 🚀" />
+        <button class="send-msPopup" id="send-btn" type="button">
+          <i class="material-icons icon-font-color--black">send</i>
+        </button>
+      </div>
+    </div>
+    <button type="button" id="whats-openPopup" class="whatsapp-button">
+      <div class="float" title="Whatsapp contact">
+        <img src="assets/images/resource/whatsapp.svg" class="wtp-button" alt="Whatsapp contact" aria-hidden="true">
+      </div>
+    </button>
+    <div class="circle-anime"></div>
+  </div>
+  <script src="assets/js/whatsapp_contact_script.js"></script>
+  <!-- End Whatsapp buttom -->
+
 	<!--==================================================-->
 	<!-- Start consen Main Menu Area -->
 	<!--==================================================-->
@@ -83,7 +117,7 @@
 							<li><a href="contacto.html">Contacto</a></li>
 						</ul>
 						<div class="header-button">
-							<a href="contacto.html">Agendar Consulta</a>
+							<a href="https://api.whatsapp.com/send?phone=573103671172&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20DATA%20y%20sus%20planes%20comerciales,%20por%20favor." target="_blank">Agendar Consulta</a>
 						</div>
 					</nav>
 				</div>
@@ -292,7 +326,6 @@
 										class="bi bi-facebook"></i> </a>
 								<a class="social-icon-color2" href="https://www.instagram.com/datasystem_col/" target="_blank"><i
 										class="bi bi-instagram"></i></a>
-								<a class="social-icon-color1" href="#"> <i class="bi bi-twitter"></i> </a>
 								<a class="social-icon-color3" href="#"> <i class="bi bi-youtube"></i> </a>
 							</div>
 						</div>
@@ -315,8 +348,8 @@
 							<h4 class="widget-title"> Servicios </h4>
 							<div class="menu-quick-link-content">
 								<ul class="footer-menu">
-									<li><a href="#"> Planes </a></li>
-									<li><a href="#"> Modulos </a></li>
+									<li><a href="plan-premium.html"> Planes </a></li>
+									<li><a href="produccion.html"> Módulos </a></li>
 								</ul>
 							</div>
 						</div>
