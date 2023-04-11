@@ -1816,6 +1816,10 @@ button.icons {
     background-size: cover;
 }
 
+.widget-categories-thumb .widget-categories-content .logo-thumb a img {
+    width: 40%;
+}
+
 /*widget title2*/
 .widget-title2 h3 {
     font-size: 40px;
