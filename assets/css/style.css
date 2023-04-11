@@ -433,6 +433,15 @@ ul.sub-menu li:hover a span{
     display: none;
 }
 
+.consen_nav_manu .container .logo .logo_img img {
+    width: 22%;
+}
+
+.consen_nav_manu.sticky .container .logo .main_sticky img {
+    width: 23%;
+}
+
+
 .main_sticky {
     display: none;
 }
@@ -1532,6 +1541,14 @@ ul.sub-menu li:hover a span{
 
 /*detials description*/
 .serivce-details-desc p span {
+    color: #00beed;
+}
+
+.serivce-details-desc p b {
+    color: #00beed;
+}
+
+.serivce-details-desc p strong {
     color: #00beed;
 }
 
@@ -4712,7 +4729,7 @@ ul.footer-menu li a:hover {
 }
 
 a.logo_thumb img {
-    width: 28%;
+    width: 12%;
 }
 
 .footer-bottom-content {
