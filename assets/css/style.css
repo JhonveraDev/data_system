@@ -1802,7 +1802,7 @@ button.icons {
 /*widget title2*/
 .widget-title2 h3 {
     font-size: 40px;
-    line-height: 44px;
+    line-height: 50px;
     font-weight: 600;
     color: #ffff;
     padding: 31px 0 40px;
@@ -2694,7 +2694,7 @@ p.choose-text1 {
 
 .style-three.case-study-area {
     background: #fff;
-    padding: 15px 0 110px;
+    padding: 15px 0 120px;
 }
 
 /* Portfolio Nav */
@@ -4086,7 +4086,7 @@ a.active {
 .form_box textarea:focus {
     border-color: #00beed;
     outline: 0;
-    box-shadow: 0 0 6px rgb(204, 48, 0, 0.6);
+    box-shadow: 0 0 6px rgb(0, 190, 237, 0.6);
 }
 
 /*form button*/
@@ -6549,7 +6549,7 @@ ul.tabs-inner-list li i {
 .contact_from_box {
     box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.1);
     background: #fff;
-    padding: 27px 40px 45px;
+    padding: 36px 40px 72.5px;
 }
 
 /*=================================================
