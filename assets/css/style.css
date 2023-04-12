@@ -959,6 +959,11 @@ ul.sub-menu li:hover a span{
     margin: 0;
 }
 
+.consen-section-title .about-text1 strong {
+    font-weight: bolder; 
+    color: #00beed;
+}
+
 .consen-section-title span {
     color: #00beed;
 }
