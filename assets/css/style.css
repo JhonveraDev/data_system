@@ -434,11 +434,11 @@ ul.sub-menu li:hover a span{
 }
 
 .consen_nav_manu .container .logo .logo_img img {
-    width: 22%;
+    width: 33%;
 }
 
 .consen_nav_manu.sticky .container .logo .main_sticky img {
-    width: 23%;
+    width: 33%;
 }
 
 
@@ -4738,7 +4738,7 @@ ul.footer-menu li a:hover {
 }
 
 a.logo_thumb img {
-    width: 12%;
+    width: 15%;
 }
 
 .footer-bottom-content {
