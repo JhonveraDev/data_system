@@ -530,7 +530,7 @@ ul.sub-menu li:hover a span{
 }
 
 .slider-content h1 {
-    font-size: 45px;
+    font-size: 40px;
     color: #fff;
     line-height: 1;
 }
@@ -1541,6 +1541,10 @@ ul.sub-menu li:hover a span{
     color: #0D0E14;
     padding: 20px 0 20px;
     display: inline-block;
+}
+
+.serivce-details-desc p {
+    text-align: justify;
 }
 
 /*detials description*/
