@@ -1,52 +1,51 @@
 /*===============================================
-Template Name: Consen - Consulting & Finance HTML5 Template
-Author:  https://themeforest.net/user/dreamit-solution
+Template Name: DATA - Consulting & Finance HTML5 Template
 Description: Description
 Version: 1.0.0
-Text Domain: Consen
+Text Domain: DATA
 Tags: consulting, finance, corporate, business, consultant, multipurpose, technology, it-solution, software, agency, company, portfolio, bangking, insurance, digital-agency, digital-marketing.
 ================================================*/
 
 /*TABLE OF CONTENTS*/
 /*=====================
-01. Consen Header Top Menu Area Css
-02. Consen Nav Menu Area Css 
-03. Consen Slider Area Css
-04. Consen Section Title Css
-05. Consen Service Area css
-06. Consen About Area Css
-07. Consen Counter Area Css
-08. Consen Case Study Area Css
-09. Consen Testimonial Area Css
-10. Consen Process Area Css
-11. Consen Team Area Css
-12. Consen Faq Area Css
-13. Consen Brand Section Css
-14. Consen Call Do Section Css
-15. Consen Form Box Css
-16. Consen Skill Area Css
-17. Consen Blog Area Css
-18. Consen footer Area Css
-19. Consen Subscribe Area Css
-20. Consen Lines CSS
-21. Consen Prossess Ber Css
-22. Consen Scrollup Section
-23. Consen Bounce Animation Css 
-24. Consen Animation Dance
-25. Consen Breadcumb Area Css
-26. Consen abouts_areas Css
-27. Consen Feture-Area Css
-28. Consen Pricing Section Css
-29. Consen Web Development Section CSS
-30. Consen Contact  US Css
-31. Consen Blog Sidber Widget CSS
-32. Consen Case Study Details Css
-33. Consen Search Box Css
-34. Consen Loader Css
+01. DATA Header Top Menu Area Css
+02. DATA Nav Menu Area Css 
+03. DATA Slider Area Css
+04. DATA Section Title Css
+05. DATA Service Area css
+06. DATA About Area Css
+07. DATA Counter Area Css
+08. DATA Case Study Area Css
+09. DATA Testimonial Area Css
+10. DATA Process Area Css
+11. DATA Team Area Css
+12. DATA Faq Area Css
+13. DATA Brand Section Css
+14. DATA Call Do Section Css
+15. DATA Form Box Css
+16. DATA Skill Area Css
+17. DATA Blog Area Css
+18. DATA footer Area Css
+19. DATA Subscribe Area Css
+20. DATA Lines CSS
+21. DATA Prossess Ber Css
+22. DATA Scrollup Section
+23. DATA Bounce Animation Css 
+24. DATA Animation Dance
+25. DATA Breadcumb Area Css
+26. DATA abouts_areas Css
+27. DATA Feture-Area Css
+28. DATA Pricing Section Css
+29. DATA Web Development Section CSS
+30. DATA Contact  US Css
+31. DATA Blog Sidber Widget CSS
+32. DATA Case Study Details Css
+33. DATA Search Box Css
+34. DATA Loader Css
 =======================*/
 
 /*================================
- <-- Consen Header Top Menu Area Css-->
+ <-- DATA Header Top Menu Area Css-->
 ==================================*/
 .header-top-area {
     background: #14212A;
@@ -163,7 +162,7 @@ li.menu-icon a {
 }
 
 /*================================
-<--  Consen Nav Menu Area Css -->
+<--  DATA Nav Menu Area Css -->
 ==================================*/
 .consen_nav_manu {
     background: transparent;
@@ -193,7 +192,7 @@ li.menu-icon a {
     z-index: 9;
 }
 
-/* consen Menu Css*/
+/*DATA Menu Css*/
 nav.consen_menu {
     text-align: right;
 }
@@ -486,7 +485,7 @@ ul.sub-menu li:hover a span{
 
 /*
 <!-- ============================================================== -->
-<!-- Start Consen Slider Area Css -->
+<!-- Start DATA Slider Area Css -->
 <!-- ============================================================== -->*/
 .slider-area {
     background: url(../images/slider/hero-bg.png);
@@ -852,7 +851,7 @@ ul.sub-menu li:hover a span{
 
 /**
 ======================================================
-<--  Consen Section Title Css -->
+<--  DATA Section Title Css -->
 ======================================================**/
 
 .banner-area {
@@ -953,10 +952,10 @@ ul.sub-menu li:hover a span{
 
 /**
 ======================================================
-<--  Consen Section Title Css -->
+<--  DATA Section Title Css -->
 ======================================================**/
 .consen-section-title h2 {
-    font-size: 28px;
+    font-size: 22.5px;
     margin: 0;
 }
 
@@ -1025,7 +1024,7 @@ ul.sub-menu li:hover a span{
 
 /**
 ======================================================
-<--  Consen Service Area css -->
+<--  DATA Service Area css -->
 ======================================================**/
 .service-area {
     /*background: url(../images/resource/feature-bg.jpg);*/
@@ -1521,7 +1520,7 @@ ul.sub-menu li:hover a span{
 
 /**
 ======================================================
-<--  Consen Service Details Area Css -->
+<--  DATA Service Details Area Css -->
 ======================================================**/
 .service-detials-area {
     padding: 100px 0 120px;
@@ -1855,7 +1854,7 @@ button.icons {
 
 /**
 ======================================================
-<--  Consen About Area Css -->
+<--  DATA About Area Css -->
 ======================================================**/
 .about-area {
     background: url(../images/about/about-bg.png);
@@ -2386,7 +2385,7 @@ p.about-text1 {
 
 /***
 ======================================================
-<--  Consen Counter Area Css -->
+<--  DATA Counter Area Css -->
 ======================================================***/
 .counter-vip {
     padding: 85px 0 0;
@@ -2443,7 +2442,7 @@ p.about-text1 {
 
 /***
 ======================================================
-<--  Consen Case Study Area Css -->
+<--  DATA Case Study Area Css -->
 ======================================================***/
 .case-study-area {
     background: url(../images/resource/service-bg.png);
@@ -3010,7 +3009,7 @@ p.choose-text1 {
 
 /***
 ======================================================
-<--  Consen Testimonial Area Css -->
+<--  DATA Testimonial Area Css -->
 ======================================================***/
 .testimonial-area {
     background: url(../images/resource/testimonial-bg.png);
@@ -3274,7 +3273,7 @@ p.choose-text1 {
 
 /***
 ======================================================
-<--  Consen Process Area Css -->
+<--  DATA Process Area Css -->
 ======================================================***/
 .process-area {
     background: url(../images/resource/work-process-bg.png);
@@ -3549,7 +3548,7 @@ p.choose-text1 {
 
 /***
 ======================================================
-<--  Consen Team Area Css -->
+<--  DATA Team Area Css -->
 ======================================================***/
 .team_area {
     /*background: url(../images/resource/why-choose-bg.png);*/
@@ -3693,7 +3692,7 @@ p.choose-text1 {
 
 /***
 ======================================================
-<-- Consen Faq Area Css -->
+<-- DATA Faq Area Css -->
 ======================================================***/
 .faq-area {
     background: url(../images/resource/faq-bg.jpg);
@@ -3912,7 +3911,7 @@ a.active {
 
 /***
 ==================================================
-<-- Consen Brand Section Css -->
+<-- DATA Brand Section Css -->
 ==================================================***/
 
 .brand-section {
@@ -3947,7 +3946,7 @@ a.active {
 
 /***
 ==================================================
-<-- Consen Call Do Section Css -->
+<-- DATA Call Do Section Css -->
 ==================================================***/
 .call-do-action-section {
     background: linear-gradient(rgba(17, 26, 58, 0.75), rgba(17, 26, 58, 0.75)), transparent url(../images/resource/cda1.jpg) no-repeat center/cover;
@@ -4030,7 +4029,7 @@ a.active {
 
 /***
 ==================================================
-<-- Consen Form Box Css -->
+<-- DATA Form Box Css -->
 ==================================================***/
 .contract-form-bg {
     padding: 15px 35px 40px;
@@ -4156,7 +4155,7 @@ a.active {
 
 /***
 ======================================================
-<-- Consen Brand Area Css -->
+<-- DATA Brand Area Css -->
 ======================================================***/
 .dreamits-top-title h3 {
     font-size: 18px;
@@ -4190,7 +4189,7 @@ a.active {
 
 /***
 ======================================================
-<--  Consen Skill Area Css -->
+<--  DATA Skill Area Css -->
 ======================================================***/
 .skill-area {
     background: url(../images/resource/skill-bg.png);
@@ -4269,7 +4268,7 @@ p.slill-text {
 
 /***
 ======================================================
-<--  Consen Blog Area Css -->
+<--  DATA Blog Area Css -->
 ======================================================***/
 .blog-area {
     background: url(../images/resource/blog-bg.png);
@@ -4549,7 +4548,7 @@ p.slill-text {
 
 /***
 ======================================================
-<--  Consen footer Area Css -->
+<--  DATA footer Area Css -->
 ======================================================***/
 .footer-middle {
     background: url(../images/resource/footer-bg.png);
@@ -4901,7 +4900,7 @@ a.logo_thumb img {
 
 /***
 ======================================================
-<--  Consen Subscribe Area Css -->
+<--  DATA Subscribe Area Css -->
 ======================================================***/
 .subscribe-area {
     background: url(../images/resource/subscribe-bg.png);
@@ -5048,7 +5047,7 @@ a.logo_thumb img {
 
 /***
 ======================================================
-<--  Consen Lines CSS -->
+<--  DATA Lines CSS -->
 ======================================================***/
 .lines .line {
     position: relative;
@@ -5247,7 +5246,7 @@ a.logo_thumb img {
 }
 
 /**====================================================
-<-- Consen Prossess Ber Css -->
+<-- DATA Prossess Ber Css -->
 ======================================================**/
 .prossess-ber-plugin span {
     color: #fff;
@@ -5301,7 +5300,7 @@ span.fill {
 
 /*
 <!-- ============================================================== -->
-<!-- Consen Scrollup Section -->
+<!-- DATA Scrollup Section -->
 <!-- ============================================================== -->*/
 .scroll-area {
     position: relative;
@@ -5483,7 +5482,7 @@ span.fill {
 
 /*
 <!-- ============================================================== -->
-<!-- Consen Bounce Animation Css -->
+<!-- DATA Bounce Animation Css -->
 <!-- ============================================================== -->*/
 /* bounce-animate */
 .bounce-animate {
@@ -5759,7 +5758,7 @@ span.fill {
 
 
 /*--==============================================->
-  <!-- Consen Animation Dance -->
+  <!-- DATA Animation Dance -->
  ==================================================-*/
 /**/
 .dance3 {
@@ -5830,7 +5829,7 @@ span.fill {
 }
 
 /*--==============================================->
-<!-- Consen Breadcumb Area Css -->
+<!-- DATA Breadcumb Area Css -->
 ==================================================-*/
 .breadcumb-area {
     background: linear-gradient(rgba(19, 19, 35, 0.6), rgba(0, 0, 0, 0.5)), url(../images/resource/braitcam.png) no-repeat center/cover;
@@ -5891,7 +5890,7 @@ span.fill {
 }
 
 /*====================================================
---< Consen abouts_areas Css -->
+--< DATA abouts_areas Css -->
 ======================================================*/
 .abouts_areas {
     padding: 100px 0 130px;
@@ -5948,7 +5947,7 @@ span.fill {
 }
 
 /*====================================================
-<-- Consen Feture-Area Css -->
+<-- DATA Feture-Area Css -->
 ======================================================*/
 
 .feature-area {
@@ -6314,7 +6313,7 @@ ul.tabs-inner-list li i {
 }
 
 /*========================================
-<-- Consen Pricing Section Css -->
+<-- DATA Pricing Section Css -->
 ==========================================*/
 .pricing-section {
     padding: 45px 0 70px;
@@ -6418,7 +6417,7 @@ ul.tabs-inner-list li i {
 }
 
 /*=============================================
-<-- Consen Web Development Section CSS
+<-- DATA Web Development Section CSS
 ===============================================*/
 .web-dev-section {
     background: url(../images/resource/why-choose-bg.png);
@@ -6489,7 +6488,7 @@ ul.tabs-inner-list li i {
 }
 
 /*===================================
-<-- Consen Contact  US Css -->
+<-- DATA Contact  US Css -->
 =====================================*/
 .contact-us {
     background: url(../images/resource/why-choose-bg.png);
@@ -6586,7 +6585,7 @@ ul.tabs-inner-list li i {
 }
 
 /*=================================================
-<-- Consen Blog Sidber Widget CSS -->
+<-- DATA Blog Sidber Widget CSS -->
 ==================================================*/
 
 .blog-section {
@@ -7004,7 +7003,7 @@ label {
 }
 
 /*======================================
-<-- Consen Case Study Details Css -->
+<-- DATA Case Study Details Css -->
 ========================================*/
 .case-study-details {
     background: url(../images/resource/why-choose-bg.png);
@@ -7141,7 +7140,7 @@ label {
 }
 
 /*=====================================
-<-- Consen Error Area Css -->
+<-- DATA Error Area Css -->
 =======================================*/
 .error-area {
     padding: 100px 0 100px;
@@ -7254,7 +7253,7 @@ label {
 }
 
 /*=====================================
-<-- Consen Search Box Css -->
+<-- DATA Search Box Css -->
 =======================================*/
 /*nav button*/
 .search-box-btn.search-box-outer {
@@ -7487,7 +7486,7 @@ ul.social-box li a:hover {
 }
 
 /*===========================
-<-- Consen Loader Css -->
+<-- DATA Loader Css -->
 =============================*/
 .loader-wrapper {
     position: fixed;
