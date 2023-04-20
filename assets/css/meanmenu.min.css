@@ -182,9 +182,9 @@ a.meanmenu-reveal {
 .mean-container .mean-bar::before {
   content: "";
   position: absolute;
-  background-image: url("/assets/images/mobile-logo-data.svg");
-  width: 60px;
-  height: 60px;
+  background-image: url("/assets/images/mobile-logo-data.png");
+  width: 66px;
+  height: 50px;
   left: 16px;
-  top: 2px;
+  top: 6px;
 }
